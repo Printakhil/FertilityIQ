@@ -1,0 +1,13 @@
+{
+    "count": 5002,
+    "mean": 2.632610555777689,
+    "median": 1.59,
+    "minimum": 0.013,
+    "maximum": 482.1,
+    "q1": 0.663,
+    "q3": 3.02,
+    "iqr": 2.357,
+    "potential_outlier_count": 227,
+    "iqr_lower_fence": -2.8725000000000005,
+    "iqr_upper_fence": 6.5555
+}

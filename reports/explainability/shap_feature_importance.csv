@@ -1,0 +1,16 @@
+feature,mean_absolute_shap
+Number of embryos,1.7542623
+Embryo Grade 1,0.3157169
+Number of fertilized eggs,0.28770784
+Sperm morphology,0.18399085
+Male Age,0.14458969
+Sperm motility,0.13498749
+Female Age,0.12424703
+AMH,0.096106954
+Oocyte Maturity MII,0.08604381
+Oocyte Maturity MI,0.0758212
+Sperm count,0.07470933
+Embryo Grade 2,0.063470304
+Oocyte Maturity others,0.04320702
+Embryo Grade 3,0.012718956
+Embryo Grade 4,0.0005453076

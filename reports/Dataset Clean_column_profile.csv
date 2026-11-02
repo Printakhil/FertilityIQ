@@ -1,0 +1,22 @@
+column,dtype,missing_count,missing_percentage,unique_values
+Female Age,int64,0,0.0,30
+Number of attempts,object,0,0.0,11
+AMH,float64,0,0.0,849
+Medicines and treatments,int64,0,0.0,182
+Egg retrieval date,datetime64[us],2,0.04,1400
+Oocyte Maturity MII,int64,0,0.0,36
+Oocyte Maturity MI,int64,0,0.0,18
+Oocyte Maturity others,int64,0,0.0,22
+Male Age,int64,0,0.0,39
+Sperm count,float64,0,0.0,110
+Sperm motility,float64,0,0.0,154
+Sperm morphology,float64,0,0.0,27
+Number of fertilized eggs,int64,0,0.0,34
+Embryo Grade 1,int64,0,0.0,28
+Embryo Grade 2,int64,0,0.0,16
+Embryo Grade 3,int64,0,0.0,12
+Embryo Grade 4,int64,0,0.0,7
+Number of embryos,int64,0,0.0,9
+frezzing,int64,0,0.0,22
+β-HCG,str,2,0.04,1276
+Output(failed implantation or successful implantation),float64,2,0.04,2

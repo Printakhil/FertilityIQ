@@ -1,0 +1,37 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite3
+
+# Raw and processed datasets
+ml/data/raw/
+ml/data/interim/
+ml/data/processed/
+
+# Temporary files
+.DS_Store
+Thumbs.db

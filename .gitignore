@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.env
+*.log
+ml/data/raw/
+ml/data/interim/
+ml/data/processed/
+ml/models/
+node_modules
